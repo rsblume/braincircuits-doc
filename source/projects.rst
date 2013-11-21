@@ -7,3 +7,11 @@ Brain Circuits Lab Projects
    
    
    ms_pfc_mod
+   metaphor
+   
+   
+   
+   
+   
+.. Important::
+   :ref:`go here for the project template <project_template>`

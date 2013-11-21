@@ -6,7 +6,9 @@
 Welcome to The Brain Circuits Lab documentation!
 ====================================================
 
-This is the set of documentation pages for the Lab projects, software and ideas **Enjoy!** 
+This is the set of documentation pages for the Lab projects, software and ideas 
+
+**Enjoy!** 
 
 Contents:
 
@@ -17,7 +19,8 @@ Contents:
    projects
    software
    ideas
-   rob_reading
+   administration
+   
 
 
 

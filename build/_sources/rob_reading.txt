@@ -1,7 +1,9 @@
-Rob recommends reading these 
-=============================
+Introduction to Cog. Neuro of Prefrontal Cortex
+================================================
 .. rob_reading:
-Here is a little reading list that I should serve as a good primer for those interested in cog. neuro
+Here is a little reading list that I should serve as a good primer for those interested in cog. neuro of PFC.
+
+
 
 Introduction to Cognitive Neuroscience
 ---------------------------------------
