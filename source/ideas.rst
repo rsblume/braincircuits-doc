@@ -1,4 +1,4 @@
-Lab Ideas and Discussion
+Lab ideas and discussion
 =========================
 
 Brain Circuits Lab place for miscellaneous topics, discussion, new ideas
