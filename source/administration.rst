@@ -1,7 +1,11 @@
 Administration
 ================
 
+
+
 List of important administrative pages:
+
+.. image:: download.jpg
 
 .. toctree::
    :titlesonly:
