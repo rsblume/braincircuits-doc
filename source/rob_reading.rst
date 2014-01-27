@@ -25,6 +25,8 @@ Introduction to Cognitive Neuroscience
 
 #. `Blumenfeld & Ranganath, The Neuroscientist, 2007 <http://www.ncbi.nlm.nih.gov/pubmed/17519370>`_.
 
+#. `O'Reilly, Trends in Neuroscience, 2010 <http://www.ncbi.nlm.nih.gov/pubmed/20573407>`_.
+
 
 Graph Theory
 -------------

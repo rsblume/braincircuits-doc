@@ -11,3 +11,5 @@ Brain Circuits Lab place for miscellaneous topics, discussion, new ideas
    
    rob_reading
    dorsalventral_anat_papers
+   rob_dlvl_audrestnet
+   combining_streams
