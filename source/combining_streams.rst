@@ -79,7 +79,7 @@ Ventral Stream:
 		
 		figurative > literal metaphors and idioms recruit mid-VLPFC (45-47/12) from Bohrn *neuroimage* , 2013 meta-analysis
 		
-		literal vs. metaphoric vs. action vs. abstract sentences:
+		literal vs. metaphoric vs. action vs. abstract sentences from Desai et al. 2013:
 
 		.. image:: Table1_desai.jpg		
 		
@@ -91,6 +91,14 @@ Ventral Stream:
 		
 		.. image:: fig2_desai.jpg
 		
+		Romero Lauro another verb processing paper showing VLPFC
+		A) is figurative >literal  
+		B) literal > figurative
+		C) overlap between for figurative conditions
+		
+		.. image:: Romero_Lauro.jpg
+		
+	
 	
 	**metaphor** : Jie paper
 	
@@ -99,9 +107,24 @@ Ventral Stream:
 Dorsal Stream:
 """""""""""""""""
 
+Most of the literature I have found is neuropsych. 
+
 Dynamic Aphasia
 	**Alexander, JINS, 2006** : DLPFC lesions, impaired in open-ended narrative discourse
-
+	
+High level comprehension
+	**Dronkers, Cognition, 2004** : area 46 as well as 47 show significant contribution to subtests in CYCLE R:
+		
+			A) Active Voice
+			B) Double Embedding
+			C) Object-Subject Relative
+			D) Subject Relatives
+			
+	.. image:: Dronkers2004_table2.jpg
+	.. image:: Dronkers2004_table4.jpg
+	
+			
+			
 Story Grammar
 
 Narrative vs. Procedural Discourse Production:
