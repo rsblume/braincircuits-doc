@@ -121,6 +121,7 @@ High level comprehension
 			D) Subject Relatives
 			
 	.. image:: Dronkers2004_table2.jpg
+	
 	.. image:: Dronkers2004_table4.jpg
 	
 			

@@ -17,8 +17,9 @@ Contents:
    :maxdepth: 1
    
    projects
-   software
    ideas
+   analyses
+   software
    administration
    
 
