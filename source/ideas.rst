@@ -10,6 +10,6 @@ Brain Circuits Lab place for miscellaneous topics, discussion, new ideas
    :maxdepth: 1   
    
    rob_reading
-   dorsalventral_anat_papers
+   dorsalventral_theories
    rob_dlvl_audrestnet
    combining_streams
