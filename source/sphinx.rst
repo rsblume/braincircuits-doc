@@ -40,13 +40,21 @@ The advantage of this is that it makes fewer files in your directory, but the di
 follow the prompts and you are on your way	
 	
 
-Sphinx depends on a very simple mark-up syntax called restructured text or **"reST"**:
+
+Restructured Text (ReST):
+--------------------------
+
+Sphinx depends on a very simple mark-up syntax called restructured text or **"reST"**
+
+One of the neat things about Sphinx and ReST is that you can always investigate the ReST code that was used to create the sphinx page by clicking on the View Source link on the html page
+
+
+Here are some good links to follow to learn about **rEST**:
 
 1. Go `here <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_ for a little tutorial
 
 2. This `link <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_ is the quickref, it will be really helpful
 
-3. Finally, go  `here <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html>`_ for the full reference guide
+3. go  `here <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html>`_ for the full reference guide
 	
-	
-	
+4. Here is a  Sphinx and ReST cheatsheet: `here <http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/source/sphinx/rest_syntax.html>`_	
