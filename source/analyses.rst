@@ -27,3 +27,4 @@ Discussion of Resting-State Analysis techniques:
    fox_correlation_rstate
    power_scrubbing
    jo_rest_method
+   hallquist
