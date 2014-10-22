@@ -1,5 +1,6 @@
 Jo AFNI 2013 resting state method
 ==================================
+.. _JO CORRELATION:
 
 Resting state pipeline that deals with the issue of spatial dependence of correlation without resorting to scrubbing
 One major point is to not remove global signals

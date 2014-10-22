@@ -1,5 +1,6 @@
 The scrubbing method
 ===========================================
+.. _POWER CORRELATION:
 
 A paper by `Power et al., 2011 in Neuroimage <http://www.ncbi.nlm.nih.gov/pubmed/22019881>`_ introduces a procedure they call *"scrubbing"* which removes spurious correlated signal due to motion.
 

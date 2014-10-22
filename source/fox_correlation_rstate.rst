@@ -1,5 +1,6 @@
 Fox 2005 resting state method
 ==============================
+.. _FOX_CORRELATION:
 
 **Pre-Processing:**
 
