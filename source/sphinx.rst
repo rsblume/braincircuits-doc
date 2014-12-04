@@ -8,9 +8,8 @@ Sphinx is a lightweight program for creating documentation in Python.
 Go `here <http://sphinx-doc.org/index.html>`_ for all things Sphinx
 
 
-
-
-
+.. Important::
+    *Would you like to go through some git and sphinx basics? If so, go to the * :ref:`Sphinx and Git Tutorial <sphinx_and_git_tutor>` 
 
 
 
